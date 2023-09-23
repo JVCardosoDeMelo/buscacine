@@ -1,5 +1,6 @@
 import { useState,useEffect } from "react";
 import Cardfilme from "../componentes/cardfilme";
+import './Filmegrid.css'
 
 const filmesurl = process.env.REACT_APP_API;
 const apikey = process.env.REACT_APP_API_KEY;

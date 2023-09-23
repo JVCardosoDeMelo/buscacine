@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import {BiMoviePlay , BiSearchAlt} from "react-icons/bi";
+import './navbar.css'
 
 
 export default function Navbar() {
