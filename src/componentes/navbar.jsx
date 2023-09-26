@@ -15,6 +15,7 @@ export default function Navbar() {
     navegar(`/search?q=${busca}`,
     {replace: true});
     setBusca("");
+   
   }
   return (
     <nav id="navbar">
